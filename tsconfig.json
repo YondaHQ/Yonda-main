@@ -1,0 +1,163 @@
+{
+  "compilerOptions": {
+    "verbatimModuleSyntax": true,
+    // Classification follows https://www.typescriptlang.org/tsconfig
+    // Type Checking
+    "strict": true,
+    "exactOptionalPropertyTypes": false,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": true,
+    "noImplicitOverride": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noPropertyAccessFromIndexSignature": false,
+    "noUncheckedIndexedAccess": false,
+    "useUnknownInCatchVariables": true,
+    // Modules
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "types": ["Yonda__env"],
+    // Emit
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    // skip type emit for @internal types
+    // "stripInternal": true,
+    // JavaScript Support
+    "allowJs": false,
+    "checkJs": false,
+    // Interop Constraints
+    "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
+    "isolatedModules": true,
+    // Language and Environment
+    "jsx": "preserve",
+    "jsxImportSource": "@emotion/react",
+    "lib": ["ESNext", "DOM"],
+    "target": "ES2022",
+    "useDefineForClassFields": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": false,
+    // Projects
+    "composite": true,
+    "incremental": true,
+    // Completeness
+    "skipLibCheck": true, // skip all type checks for .d.ts files
+    "paths": {
+      "@Yonda/core/*": ["./packages/frontend/core/src/*"],
+      "@Yonda/core": ["./packages/frontend/core/src/index.ts"],
+      "@Yonda/cli/*": ["./tools/cli/src/*"],
+      "@Yonda/server/*": ["./packages/backend/server/src/*"],
+      "@Yonda/component": ["./packages/frontend/component/src/index"],
+      "@Yonda/component/*": [
+        "./packages/frontend/component/src/components/*/index",
+        "./packages/frontend/component/src/components/*"
+      ],
+      "@Yonda/i18n": ["./packages/frontend/i18n/src"],
+      "@Yonda/i18n/hooks": ["./packages/frontend/i18n/src/i18n-generated"],
+      "@Yonda/debug": ["./packages/common/debug"],
+      "@Yonda/env": ["./packages/common/env/src"],
+      "@Yonda/env/*": ["./packages/common/env/src/*"],
+      "@Yonda/graphql": ["./packages/frontend/graphql/src"],
+      "@Yonda/electron/scripts/*": ["./packages/frontend/electron/scripts/*"],
+      "@Yonda-test/kit/*": ["./tests/kit/*"],
+      "@Yonda-test/fixtures/*": ["./tests/fixtures/*"],
+      "@toeverything/infra": ["./packages/common/infra/src"],
+      "@Yonda/native": ["./packages/frontend/native/index.d.ts"],
+      "@Yonda/native/*": ["./packages/frontend/native/*"],
+      "@Yonda/server-native": ["./packages/backend/native/index.d.ts"],
+      // Development only
+      "@Yonda/electron/*": ["./packages/frontend/electron/src/*"]
+    }
+  },
+  "include": [],
+  "references": [
+    // Backend
+    {
+      "path": "./packages/backend/server"
+    },
+    {
+      "path": "./packages/backend/server/tests"
+    },
+    // Frontend
+    {
+      "path": "./packages/frontend/component"
+    },
+    {
+      "path": "./packages/frontend/core"
+    },
+    {
+      "path": "./packages/frontend/web"
+    },
+    {
+      "path": "./packages/frontend/electron/tsconfig.test.json"
+    },
+    {
+      "path": "./packages/frontend/electron/renderer/tsconfig.json"
+    },
+    {
+      "path": "./packages/frontend/graphql"
+    },
+    {
+      "path": "./packages/frontend/i18n"
+    },
+    // Common
+    {
+      "path": "./packages/common/debug"
+    },
+    {
+      "path": "./packages/common/env"
+    },
+    {
+      "path": "./packages/common/infra"
+    },
+    // Tools
+    {
+      "path": "./tools/cli"
+    },
+    // Tests
+    {
+      "path": "./tests/kit"
+    },
+    {
+      "path": "./tests/Yonda-local"
+    },
+    {
+      "path": "./tests/Yonda-migration"
+    },
+    {
+      "path": "./tests/Yonda-legacy/0.7.0-canary.18"
+    },
+    {
+      "path": "./tests/Yonda-legacy/0.8.0-canary.7"
+    },
+    {
+      "path": "./tests/Yonda-cloud"
+    },
+    {
+      "path": "./tests/Yonda-desktop"
+    },
+    {
+      "path": "./tests/Yonda-legacy/0.8.4"
+    },
+    {
+      "path": "./tests/Yonda-legacy/0.6.1-beta.1"
+    },
+    // Others
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ],
+  "files": [],
+  "exclude": ["node_modules", "target", "lib", "test-results"],
+  "ts-node": {
+    "esm": true,
+    "compilerOptions": {
+      "module": "ESNext",
+      "moduleResolution": "Node"
+    }
+  }
+}
