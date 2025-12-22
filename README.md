@@ -1,12 +1,12 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://Yonda.tech">Yonda</a></b><br />
+    <b><a href="https://Lunela.tech">Lunela</a></b><br />
     Write, Draw and Plan All at Once
     <br>
 </h1>
-<a href="https://Yonda.tech">
-    <img alt="Yonda logo" src="https://camo.githubusercontent.com/c689eb60f831e412786dc6733c3391deaa7a6966cf0d46e6876e44da72da0a08/68747470733a2f2f692e6962622e636f2f356750666a7966562f4672616d652d313631383837313838312e706e67" style="width: 100%">
+<a href="https://lunela.tech">
+    <img alt="Lunela logo" src="https://i.postimg.cc/fW2sWpx0/photo-2025-12-23-00-30-04.jpg)" style="width: 100%">
 </a>
 <br/>
 <p align="center">
@@ -19,10 +19,10 @@
 <br/>
 
 <div align="center">
-    <a href="https://Yonda.tech">Home Page</a> |
-    <a href="https://x.com/YondaHQ?s=21">Twitter</a> |
-    <a href="https://medium.com/@YondaAI">Medium</a> |
-    <a href="https://Yonda.tech">Documentation</a>
+    <a href="https://Lunela.tech">Home Page</a> |
+    <a href="https://x.com/LunelaHQ?s=21">Twitter</a> |
+    <a href="https://medium.com/@LunelaAI">Medium</a> |
+    <a href="https://Lunela.tech">Documentation</a>
 </div>
 <br/>
 
@@ -35,7 +35,7 @@
 
 <br />
 <div align="center">
-<em>Docs, canvas and tables are hyper-merged with Yonda</em>
+<em>Docs, canvas and tables are hyper-merged with Lunela</em>
 </div>
 <br />
 
@@ -46,7 +46,7 @@ Star us, and you will receive all release notifications from GitHub without any 
 
 <img src="https://i.ibb.co/Zz8tjjC/photo00.png" style="width: 100%; height: auto;"/>
 
-## What is Yonda
+## What is Lunela
 
 Yonda is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
 
@@ -80,20 +80,20 @@ Yonda is an open-source, all-in-one workspace and an operating system for all th
 
 There is a large overlap of their atomic “building blocks” between these apps. They are not open source, nor do they have a plugin system like Vscode for contributors to customize. We want to have something that contains all the features we love and also goes one step even further.
 
-Thanks for checking us out, we appreciate your interest and sincerely hope that Yonda resonates with you! 🎵 Checking https://Yonda.tech/ for more details ions.
+Thanks for checking us out, we appreciate your interest and sincerely hope that Yonda resonates with you! 🎵 Checking https://Lunela.tech/ for more details ions.
 
 ## Contributing
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions                                                       | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Create a bug report](https://github.com/Yonda/Yonda/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/havespaceai/havespace/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://Yonda.tech) |           |
-| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@Yonda.tech                                                    |
+| [Create a bug report](https://github.com/LunelaHQ/Lunela/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/havespaceai/havespace/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://Lunela.tech) |           |
+| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@Lunela.tech                                                    |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
 
 **Before you start contributing, please make sure you have read and accepted our Contributor License Agreement. To indicate your agreement, simply edit this file and submit a pull request.**
 
-For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/Yonda/Yonda/issues/new/choose) and choose the most appropriate template for your feedback.
+For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/LunelaHQ/Lunela/issues/new/choose) and choose the most appropriate template for your feedback.
 
 
 
@@ -121,11 +121,11 @@ Begin with Docker to deploy your own feature-rich, unrestricted version of Yonda
 
 ## Hiring
 
-Some amazing companies, including Yonda, are looking for developers! Are you interested in joining Yonda or its partners? Check out our Discord channel for some of the latest jobs available.
+Some amazing companies, including Lunela, are looking for developers! Are you interested in joining Yonda or its partners? Check out our Discord channel for some of the latest jobs available.
 
 ## Email
 
-For questions and suggestions, please use this email [contact@Yonda.tech]
+For questions and suggestions, please use this email [contact@Lunela.tech]
 
 ## Building
 
@@ -136,7 +136,7 @@ Yonda repo cloned, built, and ready to go.
 
 ### Local
 
-See [BUILDING.md] for instructions on how to build Yonda from source code.
+See [BUILDING.md] for instructions on how to build Lunela from source code.
 
 ## Contributing
 
