@@ -21,7 +21,7 @@
 <div align="center">
     <a href="https://Lunela.tech">Home Page</a> |
     <a href="https://x.com/LunelaHQ?s=21">Twitter</a> |
-    <a href="https://medium.com/@LunelaAI">Medium</a> |
+    <a href="https://medium.com/@LunelaHQ">Medium</a> |
     <a href="https://Lunela.tech">Documentation</a>
 </div>
 <br/>
@@ -64,7 +64,7 @@ Yonda is an open-source, all-in-one workspace and an operating system for all th
 
 - We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, Yonda supports real-time sync and collaborations on web and cross-platform clients.
 
-**Self-host & Shape your own Yonda**
+**Self-host & Shape your own Lunela**
 
 - You have the freedom to manage, self-host, fork and build your own Yonda. Plugin community and third-party blocks are coming soon. More tractions on Blocksuite.
 
@@ -97,19 +97,19 @@ For **bug reports**, **feature requests** and other **suggestions** you can also
 
 
 
-If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [Yonda](https://Yonda.tech) where you can engage with other like-minded individuals.
+If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [Lunela](https://Lunela.tech) where you can engage with other like-minded individuals.
 
 ## Ecosystem
 
 | Name                                             |                            |                                                                                                                                         |
 | ------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [@Yonda/component](packages/frontend/component) | Yonda Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
-| [@Yonda/theme](packages/common/theme)     | Yonda theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
+| [@LunelaHQ/component](packages/frontend/component) | Lunela Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
+| [@LunelaHQ/theme](packages/common/theme)     | Lunela theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
 
 
 ## Contributors
 
-We would like to express our gratitude to all the individuals who have already contributed to Yonda! If you have any Yonda-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-Yonda](https://github.com/Yonda/Yonda).
+We would like to express our gratitude to all the individuals who have already contributed to Yonda! If you have any Yonda-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-Yonda](https://github.com/LunelaHQ/Lunela).
 
 <a href="">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
@@ -117,7 +117,7 @@ We would like to express our gratitude to all the individuals who have already c
 
 ## Self-Host
 
-Begin with Docker to deploy your own feature-rich, unrestricted version of Yonda. Our team is diligently updating to the latest version. For more information on how to self-host Yonda, please refer to our [documentation](https://Yonda.tech/).
+Begin with Docker to deploy your own feature-rich, unrestricted version of Yonda. Our team is diligently updating to the latest version. For more information on how to self-host Yonda, please refer to our [documentation](https://Lunela.tech/).
 
 ## Hiring
 
